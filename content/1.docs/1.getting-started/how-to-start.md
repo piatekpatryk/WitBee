@@ -3,7 +3,9 @@ title: How to start
 description: How to start page
 ---
 
-# asdasd
+# Title
+
+## First subtitle
 
 ::card
 ---
@@ -37,3 +39,13 @@ size: sm
 variant: solid
 ---
 ::
+
+## Second subtitle
+
+- Powered by [Nuxt 3](https://nuxt.com)
+- Built with [Nuxt UI](https://ui.nuxt.com) and [Nuxt UI Pro](https://ui.nuxt.com/pro)
+- Write content with [MDC syntax](https://content.nuxt.com/usage/markdown) thanks to [Nuxt Content](https://content.nuxt.com)
+- Beautiful Typography styles
+- Full-Text Search out of the box
+- Dark mode support
+- And more...
